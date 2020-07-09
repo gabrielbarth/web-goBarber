@@ -105,5 +105,5 @@ Or send me an email :incoming_envelope:: gabrielbarth.dev@gmail.com.
 <br>
 
 <p align="center">
-Made with ♥ by [Gabriel Barth](https://gabrielbarth.com)
+  Made with ♥ by <a href="https://gabrielbarth.com/">Gabriel Barth</a>
 </p>
