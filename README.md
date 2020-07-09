@@ -68,7 +68,7 @@ This application allows:
 
 #### Development libs: <br>
 :ballot_box_with_check: <a href="https://eslint.org/">**eslint**</a>    `// analyzes your code to quickly find problems` <br>
-:ballot_box_with_check: <a href="https://prettier.io/">**prettier**</a>    `// code formatter (as the name says)` <br>
+:ballot_box_with_check: <a href="https://prettier.io/">**prettier**</a>    `//code formatter, makes code prettier` <br>
 :ballot_box_with_check: <a href="https://github.com/timarney/react-app-rewired">**react-app-rewire**</a>   `// allows override create-react-app webpack configs without ejecting` <br>
 
 ## :computer: Running on your machine 
