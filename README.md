@@ -66,8 +66,7 @@ This application allows:
 :ballot_box_with_check: **<a href="https://github.com/Rocketseat/unform">@rocketseat/unform</a>**     `// easy peasy highly scalable ReactJS & React Native forms  ` <br>
 
 
-
-#### Development libs / Bibliotecas de desenvolvimento utilizadas no projeto: <br>
+#### Development libs: <br>
 :ballot_box_with_check: <a href="https://eslint.org/">**eslint**</a>    `// analyzes your code to quickly find problems` <br>
 :ballot_box_with_check: <a href="https://prettier.io/">**prettier**</a>    `// code formatter (as the name says)` <br>
 :ballot_box_with_check: <a href="https://github.com/timarney/react-app-rewired">**react-app-rewire**</a>   `// allows override create-react-app webpack configs without ejecting` <br>
@@ -86,11 +85,25 @@ Consider the steps below to run this API on your machine browser:
 4. Check if servers are running (as explained in first step).<br/>
 6. Run `yarn start` to run the app on your browser at `http://localhost:3000`.
 
-
-### Any question?
-Send an email to me: gabrielbarth98@gmail.com.
-
+## :bulb: :handshake: Contributing
+Please feel free to contributing and submitting pull requests.
 
 
+## :pray: Acknowledgments
+* Rocketseat team
+* Rocketseat community
 
 
+## :thinking: Any question?
+**Contact me on my social medias:**<br>
+[LinkedIn](https://www.linkedin.com/in/gabriel-barth-silv%C3%A9rio-6081ba153/) <br>
+[Instagram](https://instragram.com/gb1.dev) <br>
+[YouTube](https://www.youtube.com/channel/UCmA_19d5L3WTFdDfwQ6Uenw) <br>
+[Discord](https://www.wikihow.com/Add-Friends-on-Discord) (**gabrielbarth1#0492**)<br>
+Or send me an email :incoming_envelope:: gabrielbarth.dev@gmail.com.
+<br>
+<br>
+
+<p align="center">
+Made with ♥ by [Gabriel Barth](https://gabrielbarth.com)
+</p>
